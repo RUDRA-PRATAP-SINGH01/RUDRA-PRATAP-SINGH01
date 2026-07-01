@@ -142,11 +142,32 @@ const rudra = {
 
 # Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| **PebbleDB** | A log-structured merge-tree database built from scratch in Go. |
-| **Distributed Rate Limiter** | Production-inspired distributed rate limiter using Redis, Lua and Go. |
-| **ATLAS** | A creative portfolio exploring interactive web experiences and modern frontend engineering. |
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br>
+      <h3><a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">🪨 PebbleDB</a></h3>
+      <p>A high-performance Log-Structured Merge-tree (LSM) key-value engine built from scratch in Go.<br>Features concurrent MemTables, write-ahead logging (WAL), and automated SSTable compaction.</p>
+      <br>
+      <a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">
+        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      </a>
+      <br><br>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br>
+      <h3><a href="https://github.com/RUDRA-PRATAP-SINGH01/Distributed-rate-limiter">🚦 Distributed Rate Limiter</a></h3>
+      <p>A production-grade distributed rate limiter built in Go, utilizing Redis and Lua scripting.<br>Implements Token Bucket and Sliding Window Log algorithms with low-latency atomic operations.</p>
+      <br>
+      <a href="https://github.com/RUDRA-PRATAP-SINGH01/Distributed-rate-limiter">
+        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
