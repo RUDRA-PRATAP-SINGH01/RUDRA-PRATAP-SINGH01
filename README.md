@@ -1,28 +1,71 @@
-<!-- 🖼️ BANNER IMAGE - Replace "banner.png" with your actual image filename -->
+<!-- ========================================================= -->
+<!--                           BANNER                          -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="banner.png" alt="Rudra Pratap Singh Banner" width="100%" />
+  <img src="banner.png" width="100%" alt="Banner"/>
+</p>
+
+<br>
+
+<h1 align="center">Rudra Pratap Singh</h1>
+
+<p align="center">
+Full Stack Developer • Systems Engineer • Technical Writer
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/rudra-pratap-singh-b51370278">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/RudraPratap000_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:rudrapratap9256@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Rudra Pratap Singh</h1>
-<h3 align="center">Full Stack Developer • Systems Engineer • Technical Writer</h3>
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
 
-<p align="center">
-  I'm constantly searching for the intersection where my creative side meets my technical curiosity. 
-  <br />
-  Whether I'm learning about systems, fixing my broken code, or breaking down complex ideas.
-</p>
+<td width="35%" align="center" style="border: none; vertical-align: middle;">
+  <img src="profile.jpeg" width="100%" style="border-radius: 15px; max-width: 260px; display: block;" alt="Rudra Pratap Singh"/>
+</td>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rudra-pratap-singh-b51370278/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/RudraPratap000_"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="mailto:rudrapratap9256@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<td width="65%" valign="top" style="border: none;">
+
+```ts
+const rudra = {
+  name: "Rudra Pratap Singh",
+  role: [
+    "Full Stack Developer",
+    "Systems Engineer",
+    "Technical Writer"
+  ],
+  location: "Delhi, India",
+  about: [
+    "Constantly searching for the intersection",
+    "where my creative side meets my technical",
+    "curiosity. Whether I'm learning about",
+    "systems, fixing broken code, or breaking",
+    "down complex ideas."
+  ]
+};
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+# Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -97,11 +140,29 @@
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=RUDRA-PRATAP-SINGH01&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+# Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **PebbleDB** | A log-structured merge-tree database built from scratch in Go. |
+| **Distributed Rate Limiter** | Production-inspired distributed rate limiter using Redis, Lua and Go. |
+| **ATLAS** | A creative portfolio exploring interactive web experiences and modern frontend engineering. |
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&theme=github_dark&hide_border=true" width="42%" />
+</p>
