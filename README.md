@@ -8,11 +8,9 @@
 
 <br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&weight=500&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I+am+Rudra+Pratap+Singh;Full+Stack+Developer;Systems+Engineer;WebGL+Developer;3D+Developer;Technical+Writer" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Rudra+Pratap+Singh;Full+Stack+Developer;Systems+Engineer;WebGL+Developer;3D+Developer;Technical+Writer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/rudra-pratap-singh-b51370278">
@@ -183,16 +181,16 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&theme=github_dark&hide_border=true&cache_bust=1783003629" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true&cache_bust=1783003629" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&cache_bust=1783003780" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true&cache_bust=1783003780" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true&cache_bust=1783003629" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true&cache_bust=1783003780" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&theme=github_dark&hide_border=true&cache_bust=1783003629" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&cache_bust=1783003780" width="42%" />
 </p>
