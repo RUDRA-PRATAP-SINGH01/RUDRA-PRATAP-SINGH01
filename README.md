@@ -144,27 +144,36 @@ const rudra = {
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <h3><a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">🪨 PebbleDB</a></h3>
-      <p>A high-performance Log-Structured Merge-tree (LSM) key-value engine built from scratch in Go.<br>Features concurrent MemTables, write-ahead logging (WAL), and automated SSTable compaction.</p>
-      <br>
-      <a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">
-        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      </a>
-      <br><br>
+    <td align="left" width="50%" valign="top" style="padding: 10px;">
+      <h3 align="center"><a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">🪨 PebbleDB</a></h3>
+      <p align="center">A high-performance Log-Structured Merge-tree (LSM) key-value engine built from scratch in Go.</p>
+      <p align="center">
+        <a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">
+          <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        </a>
+      </p>
+      <ul>
+        <li>⚡ <b>Low-Latency Memtable:</b> Serves <code>~3,083,000 read ops/sec</code> under a 50k key hot path via concurrent goroutines, leveraging a lock-free SkipList and optimized Bloom filters.</li>
+        <li>🚀 <b>High-Throughput Write Pipeline:</b> Achieves <code>~37,000 write ops/sec</code> (sequential async WAL) utilizing concurrent write-batching pipelines, mutex locks, and group-commit synchronization on NVMe SSDs.</li>
+        <li>📉 <b>Controlled Write Amplification:</b> Enforces a strict worst-case write amplification factor of <code>N + 2</code> (1 WAL append + 1 memtable flush + N compaction rounds) via an automated background compaction manager.</li>
+      </ul>
     </td>
-    <td align="center" width="50%" valign="top">
-      <br>
-      <h3><a href="https://github.com/RUDRA-PRATAP-SINGH01/Distributed-rate-limiter">🚦 Distributed Rate Limiter</a></h3>
-      <p>A production-grade distributed rate limiter built in Go, utilizing Redis and Lua scripting.<br>Implements Token Bucket and Sliding Window Log algorithms with low-latency atomic operations.</p>
-      <br>
-      <a href="https://github.com/RUDRA-PRATAP-SINGH01/Distributed-rate-limiter">
-        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-      </a>
-      <br><br>
+    <td align="left" width="50%" valign="top" style="padding: 10px;">
+      <h3 align="center"><a href="https://github.com/RUDRA-PRATAP-SINGH01/Distributed-rate-limiter">🚦 Distributed Rate Limiter</a></h3>
+      <p align="center">A production-grade distributed rate limiter built in Go, utilizing Redis and Lua scripting.</p>
+      <p align="center">
+        <a href="https://github.com/RUDRA-PRATAP-SINGH01/Distributed-rate-limiter">
+          <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+          <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
+        </a>
+      </p>
+      <ul>
+        <li>🏎️ <b>Deduplication via singleflight:</b> Reduces up to <code>95%</code> of Redis cluster CPU overhead under burst loads by coalescing concurrent client checks down to a single execution.</li>
+        <li>⏱️ <b>Sub-Millisecond Local Checks:</b> Resolves <code>~5,000 checks/sec</code> with <code>p50 < 1ms</code> and <code>p99 < 8ms</code> when warm, utilizing a synchronized <code>sync.Map</code> denial cache.</li>
+        <li>🛡️ <b>Atomic Multi-Level Quota:</b> Implements sliding-window and token-bucket algorithms using single-pass custom Redis Lua scripts (EVALSHA) to ensure exactly-once consistency across hierarchical quotas.</li>
+      </ul>
     </td>
   </tr>
 </table>
