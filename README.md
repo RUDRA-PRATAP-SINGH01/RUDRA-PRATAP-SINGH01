@@ -181,16 +181,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&hide_border=true&cache_bust=1783003898" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=c9d1d9&currStreakLabel=ef4444&sideNums=c9d1d9&sideLabels=ef4444&dates=8b949e&hide_border=true&cache_bust=1783003898" width="49%" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=Profile%20Views&color=ef4444&style=flat&cache_bust=1783003994" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=c9d1d9&title_color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true&cache_bust=1783003898" width="100%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&hide_border=true&cache_bust=1783003994" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=c9d1d9&currStreakLabel=ef4444&sideNums=c9d1d9&sideLabels=ef4444&dates=8b949e&hide_border=true&cache_bust=1783003994" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=c9d1d9&title_color=ef4444&line=ef4444&point=ef4444&area=true&hide_border=true&cache_bust=1783003994" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&hide_border=true&cache_bust=1783003898" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&hide_border=true&cache_bust=1783003994" width="42%" />
 </p>
