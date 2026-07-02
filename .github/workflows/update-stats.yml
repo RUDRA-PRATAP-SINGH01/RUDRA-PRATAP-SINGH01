@@ -1,0 +1,34 @@
+name: Update GitHub Stats Cache-Buster
+
+on:
+  schedule:
+    # Runs every 6 hours to ensure stats refresh automatically
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run cache-buster script
+        run: python scripts/update_readme_cb.py
+
+      - name: Commit and push if README updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "chore: auto-update github stats cache-buster"
+          git push
