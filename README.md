@@ -142,6 +142,30 @@ const rudra = {
 
 <table align="center" width="100%">
   <tr>
+    <td align="left" width="100%" valign="top" style="padding: 10px;">
+      <h3 align="center"><a href="https://rps-atlas.netlify.app/">🌐 Atlas</a></h3>
+      <p align="center">A high-performance frontend application and publication platform built with React 19, Vite 8, and React Router 7.</p>
+      <p align="center">
+        <a href="https://rps-atlas.netlify.app/">
+          <img src="https://img.shields.io/badge/react%2019-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React 19" />
+          <img src="https://img.shields.io/badge/vite%208-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8" />
+          <img src="https://img.shields.io/badge/React%20Router%207-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router 7" />
+          <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+        </a>
+      </p>
+      <ul>
+        <li>⚡ <b>Optimized Frontend Architecture:</b> Built using React 19, Vite 8, and React Router 7 with route-level code-splitting for maximum delivery performance and bundle optimization.</li>
+        <li>🎨 <b>Immersive UI/UX & Interactive Diagrams:</b> Incorporates rich, hardware-accelerated GSAP landing page animations and lazy-loaded technical diagrams that dynamically illustrate complex systems.</li>
+        <li>🔍 <b>Instant Global Ctrl+K Index:</b> Offers a global command-palette search index facilitating instant query resolution and navigation across publication directories and companion guides.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
     <td align="left" width="50%" valign="top" style="padding: 10px;">
       <h3 align="center"><a href="https://github.com/RUDRA-PRATAP-SINGH01/PebbleDB">🪨 PebbleDB</a></h3>
       <p align="center">A high-performance Log-Structured Merge-tree (LSM) key-value engine built from scratch in Go.</p>
@@ -181,20 +205,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783351431" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783361920" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783351431" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783351431" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783361920" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783361920" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783351431" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783361920" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783351431" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783361920" width="42%" />
 </p>
