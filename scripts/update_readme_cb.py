@@ -17,7 +17,7 @@ def main():
     timestamp = str(int(time.time()))
     
     # Matches URLs belonging to github-readme-stats, streak-stats, github-readme-activity-graph, or komarev containing a cache_bust query parameter
-    pattern = r'((?:github-readme-stats\.shion\.dev|streak-stats\.demolab\.com|github-readme-activity-graph\.vercel\.app|komarev\.com)[^"\']*?cache_bust=)\d+'
+    pattern = r'((?:github-readme-stats\.shion\.dev|streak-stats\.vercel\.app|github-readme-activity-graph\.vercel\.app|komarev\.com)[^"\']*?cache_bust=)\d+'
     
     new_content, count = re.subn(pattern, r'\g<1>' + timestamp, content)
     

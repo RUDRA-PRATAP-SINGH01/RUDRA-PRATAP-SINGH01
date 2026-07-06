@@ -154,9 +154,9 @@ const rudra = {
         </a>
       </p>
       <ul>
-        <li>⚡ <b>Optimized Frontend Architecture:</b> Built using React 19, Vite 8, and React Router 7 with route-level code-splitting for maximum delivery performance and bundle optimization.</li>
-        <li>🎨 <b>Immersive UI/UX & Interactive Diagrams:</b> Incorporates rich, hardware-accelerated GSAP landing page animations and lazy-loaded technical diagrams that dynamically illustrate complex systems.</li>
-        <li>🔍 <b>Instant Global Ctrl+K Index:</b> Offers a global command-palette search index facilitating instant query resolution and navigation across publication directories and companion guides.</li>
+        <li><b>Optimized Frontend Architecture:</b> Built using React 19, Vite 8, and React Router 7 with route-level code-splitting for maximum delivery performance and bundle optimization.</li>
+        <li><b>Immersive UI/UX & Interactive Diagrams:</b> Incorporates rich, hardware-accelerated GSAP landing page animations and lazy-loaded technical diagrams that dynamically illustrate complex systems.</li>
+        <li><b>Instant Global Ctrl+K Index:</b> Offers a global command-palette search index facilitating instant query resolution and navigation across publication directories and companion guides.</li>
       </ul>
     </td>
   </tr>
@@ -175,9 +175,9 @@ const rudra = {
         </a>
       </p>
       <ul>
-        <li>⚡ <b>Low-Latency Memtable:</b> Serves <code>~3,083,000 read ops/sec</code> under a 50k key hot path via concurrent goroutines, leveraging a lock-free SkipList and optimized Bloom filters.</li>
-        <li>🚀 <b>High-Throughput Write Pipeline:</b> Achieves <code>~37,000 write ops/sec</code> (sequential async WAL) utilizing concurrent write-batching pipelines, mutex locks, and group-commit synchronization on NVMe SSDs.</li>
-        <li>📉 <b>Controlled Write Amplification:</b> Enforces a strict worst-case write amplification factor of <code>N + 2</code> (1 WAL append + 1 memtable flush + N compaction rounds) via an automated background compaction manager.</li>
+        <li><b>Low-Latency Memtable:</b> Serves <code>~3,083,000 read ops/sec</code> under a 50k key hot path via concurrent goroutines, leveraging a lock-free SkipList and optimized Bloom filters.</li>
+        <li><b>High-Throughput Write Pipeline:</b> Achieves <code>~37,000 write ops/sec</code> (sequential async WAL) utilizing concurrent write-batching pipelines, mutex locks, and group-commit synchronization on NVMe SSDs.</li>
+        <li><b>Controlled Write Amplification:</b> Enforces a strict worst-case write amplification factor of <code>N + 2</code> (1 WAL append + 1 memtable flush + N compaction rounds) via an automated background compaction manager.</li>
       </ul>
     </td>
     <td align="left" width="50%" valign="top" style="padding: 10px;">
@@ -192,9 +192,9 @@ const rudra = {
         </a>
       </p>
       <ul>
-        <li>🏎️ <b>Deduplication via singleflight:</b> Reduces up to <code>95%</code> of Redis cluster CPU overhead under burst loads by coalescing concurrent client checks down to a single execution.</li>
-        <li>⏱️ <b>Sub-Millisecond Local Checks:</b> Resolves <code>~5,000 checks/sec</code> with <code>p50 < 1ms</code> and <code>p99 < 8ms</code> when warm, utilizing a synchronized <code>sync.Map</code> denial cache.</li>
-        <li>🛡️ <b>Atomic Multi-Level Quota:</b> Implements sliding-window and token-bucket algorithms using single-pass custom Redis Lua scripts (EVALSHA) to ensure exactly-once consistency across hierarchical quotas.</li>
+        <li><b>Deduplication via singleflight:</b> Reduces up to <code>95%</code> of Redis cluster CPU overhead under burst loads by coalescing concurrent client checks down to a single execution.</li>
+        <li><b>Sub-Millisecond Local Checks:</b> Resolves <code>~5,000 checks/sec</code> with <code>p50 < 1ms</code> and <code>p99 < 8ms</code> when warm, utilizing a synchronized <code>sync.Map</code> denial cache.</li>
+        <li><b>Atomic Multi-Level Quota:</b> Implements sliding-window and token-bucket algorithms using single-pass custom Redis Lua scripts (EVALSHA) to ensure exactly-once consistency across hierarchical quotas.</li>
       </ul>
     </td>
   </tr>
@@ -205,20 +205,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783361920" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783362321" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783361920" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783361920" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783362321" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783362321" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783361920" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783362321" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783361920" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783362321" width="42%" />
 </p>
