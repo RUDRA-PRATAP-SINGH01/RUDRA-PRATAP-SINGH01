@@ -9,7 +9,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Rudra+Pratap+Singh;Full+Stack+Developer;Systems+Engineer;WebGL+Developer;3D+Developer;Technical+Writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Rudra+Pratap+Singh;Full+Stack+Developer;Systems+Engineer;WebGL+Developer;3D+Developer;Technical+Writer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -79,7 +79,7 @@ const rudra = {
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -106,7 +106,7 @@ const rudra = {
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -122,7 +122,7 @@ const rudra = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -205,20 +205,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783362321" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783362731" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783362321" width="49%" />
-  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783362321" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783362731" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783362731" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783362321" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783362731" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783362321" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783362731" width="42%" />
 </p>
