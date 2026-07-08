@@ -70,23 +70,23 @@ const rudra = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" />
+      <img src="icons/go.svg" alt="Go" width="48" height="48" />
       <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+      <img src="icons/javascript.svg" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+      <img src="icons/typescript.svg" alt="TypeScript" width="48" height="48" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />
+      <img src="icons/python.svg" alt="Python" width="48" height="48" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+      <img src="icons/cpp.svg" alt="C++" width="48" height="48" />
       <br>C++
     </td>
   </tr>
@@ -99,23 +99,23 @@ const rudra = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+      <img src="icons/redis.svg" alt="Redis" width="48" height="48" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      <img src="icons/postgres.svg" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+      <img src="icons/docker.svg" alt="Docker" width="48" height="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="48" height="48" />
+      <img src="icons/prometheus.svg" alt="Prometheus" width="48" height="48" />
       <br>Prometheus
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="48" height="48" />
+      <img src="icons/grafana.svg" alt="Grafana" width="48" height="48" />
       <br>Grafana
     </td>
   </tr>
@@ -128,19 +128,19 @@ const rudra = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React Three Fiber" width="48" height="48" />
+      <img src="icons/react_three_fiber.svg" alt="React Three Fiber" width="48" height="48" />
       <br>React Three Fiber
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" />
+      <img src="icons/threejs.svg" alt="Three.js" width="48" height="48" />
       <br>Three.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="48" height="48" />
+      <img src="icons/react_native.svg" alt="React Native" width="48" height="48" />
       <br>React Native
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+      <img src="icons/tailwind.svg" alt="Tailwind CSS" width="48" height="48" />
       <br>Tailwind CSS
     </td>
   </tr>
@@ -153,11 +153,11 @@ const rudra = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
+      <img src="icons/pytorch.svg" alt="PyTorch" width="48" height="48" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
+      <img src="icons/tensorflow.svg" alt="TensorFlow" width="48" height="48" />
       <br>TensorFlow
     </td>
   </tr>
@@ -232,20 +232,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783501235" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1783501951" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783501235" width="49%" />
-  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783501235" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1783501951" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1783501951" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783501235" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1783501951" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783501235" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1783501951" width="42%" />
 </p>
