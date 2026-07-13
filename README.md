@@ -43,7 +43,7 @@ const rudra = {
   role: [
     "Full Stack Developer",
     "Systems Engineer",
-    "Technical Writer"
+    "AI-Automation Engineer"
   ],
   location: "Delhi, India",
   philosophy: "Bridging the gap between creative design and technical curiosity",
