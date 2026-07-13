@@ -4,6 +4,11 @@ on:
   schedule:
     # Runs every 6 hours to ensure stats refresh automatically
     - cron: '0 */6 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 permissions:
