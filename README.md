@@ -71,19 +71,19 @@ const rudra = {
       <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
       <br>C++
     </td>
     <td align="center" width="96">
@@ -95,7 +95,7 @@ const rudra = {
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
       <br>Docker
     </td>
   </tr>
@@ -109,7 +109,7 @@ const rudra = {
       <br>Grafana
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Three Fiber" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React Three Fiber" width="48" height="48" />
       <br>React Three Fiber
     </td>
     <td align="center" width="96">
@@ -117,7 +117,7 @@ const rudra = {
       <br>Three.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="48" height="48" />
       <br>React Native
     </td>
     <td align="center" width="96">
@@ -204,20 +204,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1784466547" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1784470942" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1784466547" width="49%" />
-  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1784466547" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1784470942" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1784470942" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1784466547" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1784470942" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1784466547" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1784470942" width="42%" />
 </p>
