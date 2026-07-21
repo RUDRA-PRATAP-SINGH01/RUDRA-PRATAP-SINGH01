@@ -204,20 +204,20 @@ const rudra = {
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1784576371" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=RUDRA-PRATAP-SINGH01&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge&cache_bust=1784600477" alt="visitor count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1784576371" width="49%" />
-  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1784576371" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide_border=true&cache_bust=1784600477" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=RUDRA-PRATAP-SINGH01&background=0d1117&ring=3b82f6&fire=10b981&currStreakNum=10b981&currStreakLabel=3b82f6&sideNums=10b981&sideLabels=3b82f6&dates=8b949e&hide_border=true&cache_bust=1784600477" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1784576371" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&bg_color=0d1117&color=10b981&title_color=3b82f6&line=3b82f6&point=10b981&area=true&hide_border=true&cache_bust=1784600477" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1784576371" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true&cache_bust=1784600477" width="42%" />
 </p>
