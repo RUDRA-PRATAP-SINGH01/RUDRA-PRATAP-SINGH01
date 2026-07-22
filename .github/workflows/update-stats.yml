@@ -14,13 +14,22 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-stats-cache-buster
+  cancel-in-progress: true
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    # Avoid recursive runs when this workflow pushes its own README commit
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,8 +41,27 @@ jobs:
 
       - name: Commit and push if README updated
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet README.md; then
+            echo "No README changes to commit"
+            exit 0
+          fi
+
           git add README.md
-          git diff-index --quiet HEAD || git commit -m "chore: auto-update github stats cache-buster"
-          git push
+          git commit -m "chore: auto-update github stats cache-buster"
+
+          # Remote may have moved (concurrent pushes); rebase then push with retry
+          for i in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            echo "Push failed (attempt $i), retrying..."
+            sleep 3
+          done
+
+          echo "Push failed after retries"
+          exit 1
