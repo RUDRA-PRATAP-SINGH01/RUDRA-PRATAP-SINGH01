@@ -7,8 +7,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'README.md'
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 permissions:
@@ -21,8 +19,6 @@ concurrency:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    # Avoid recursive runs when this workflow pushes its own README commit
-    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout repository
@@ -50,7 +46,7 @@ jobs:
           fi
 
           git add README.md
-          git commit -m "chore: auto-update github stats cache-buster"
+          git commit -m "chore: auto-update github stats cache-buster [skip ci]"
 
           # Remote may have moved (concurrent pushes); rebase then push with retry
           for i in 1 2 3; do
