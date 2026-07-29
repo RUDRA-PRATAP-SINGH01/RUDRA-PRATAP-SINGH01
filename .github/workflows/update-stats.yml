@@ -35,18 +35,18 @@ jobs:
       - name: Run cache-buster script
         run: python scripts/update_readme_cb.py
 
-      - name: Commit and push if README updated
+      - name: Commit and push if files updated
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet README.md; then
-            echo "No README changes to commit"
+          if git diff --quiet README.md assets/streak_card.svg; then
+            echo "No changes to commit"
             exit 0
           fi
 
-          git add README.md
-          git commit -m "chore: auto-update github stats cache-buster [skip ci]"
+          git add README.md assets/streak_card.svg
+          git commit -m "chore: auto-update github stats cache-buster and streak card [skip ci]"
 
           # Remote may have moved (concurrent pushes); rebase then push with retry
           for i in 1 2 3; do
